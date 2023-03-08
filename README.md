@@ -48,7 +48,7 @@ OK
 
 The first method in that list was using serializeData, and as you can see, it failed when comparing values that were not normalized. However, the other methods did not fail.
 
-Then I evaluated all of them in 40 different cases. Each case is creating a value with an increment on one NFT up to 40. The assets come from 8 different collections (different currency symbols), with 5 in each collection.
+Then I evaluated all of them in 40 different cases on-chain. Each case is creating a value with an increment on one NFT up to 40. The assets come from 8 different collections (different currency symbols), with 5 in each collection.
 
 So cases 1 to 5 are using values with 1 to 5 NFT from the same currency symbol. Cases 6 to 10 are from a second collection and so on.
 
