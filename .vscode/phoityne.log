@@ -1,0 +1,39 @@
+2022-07-19 19:56:31.645271046000 [10246(ThreadId 13)] ERROR APP - cadbal: runProcess: exec: does not exist (No such file or directory)
+2022-07-19 19:57:22.213861933000 [10486(ThreadId 13)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-07-19 19:58:22.948829927000 [10698(ThreadId 13)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-07-19 20:01:43.759694305000 [11382(ThreadId 13)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 19:58:37.869263043000 [9092(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:10:52.978274231000 [12244(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:45:59.423378227000 [14988(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:50:35.689930048000 [15261(ThreadId 20)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-09-16 20:50:40.054647297000 [15411(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:52:07.019089330000 [15740(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:54:46.637734951000 [16966(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:57:07.200997147000 [19670(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:57:54.314519921000 [19965(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 20:59:12.229290091000 [21425(ThreadId 21)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/manuelpadilla/source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/src/Validators/StakePlusV2/Test/PABSimulator.hs> [("Main","/home/manuelpadilla//source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/app/debug.hs")])
+2022-09-16 20:59:12.293145978000 [21425(ThreadId 21)] WARNING APP - set adhoc breakpoint failed. user error (<getModuleByFile> loaded module can not find from path. <~/source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/app/debug.hs> [("Main","/home/manuelpadilla//source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/app/debug.hs")]) : <<DAP>>Left "user error (<getModuleByFile> loaded module can not find from path. <~/source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/app/debug.hs> [(\"Main\",\"/home/manuelpadilla//source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/app/debug.hs\")])"
+2022-09-16 21:11:04.875411305000 [23025(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:11:25.557070380000 [23144(ThreadId 21)] ERROR APP - $NIX_SHELL: runProcess: exec: does not exist (No such file or directory)
+2022-09-16 21:11:59.009742876000 [23248(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:14:36.101800180000 [23417(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:24:10.081462068000 [25072(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:24:47.796184310000 [25504(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:24:59.410672531000 [25667(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 21:54:04.171445561000 [26098(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 22:04:00.030830418000 [27264(ThreadId 20)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-09-16 22:04:01.885885057000 [27104(ThreadId 20)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-09-16 22:04:03.728678377000 [27420(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 22:06:12.246416464000 [27540(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 22:06:31.520408910000 [27642(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-09-16 22:10:25.529532411000 [28267(ThreadId 21)] ERROR APP - cabal: runProcess: chdir: does not exist (No such file or directory)
+2022-09-16 22:10:33.611376134000 [28330(ThreadId 21)] ERROR APP - cabal: runProcess: chdir: does not exist (No such file or directory)
+2022-09-16 22:11:52.793919257000 [28432(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-10-15 22:33:50.159360788000 [5603(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-10-15 22:33:50.161540624000 [5603(ThreadId 21)] WARNING APP - InitState EvaluateRequest (EvaluateRequest {seqEvaluateRequest = 3, typeEvaluateRequest = "request", commandEvaluateRequest = "evaluate", argumentsEvaluateRequest = EvaluateRequestArguments {expressionEvaluateRequestArguments = "a", frameIdEvaluateRequestArguments = Nothing, contextEvaluateRequestArguments = Just "repl"}}) not supported. nop.
+2022-10-19 20:20:02.796389057000 [13803(ThreadId 20)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-11-10 18:31:10.364315258000 [2512(ThreadId 20)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-11-10 19:00:13.709293097000 [21741(ThreadId 21)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-11-10 19:00:13.709690557000 [21741(ThreadId 21)] WARNING APP - InitState TerminateRequest (TerminateRequest {seqTerminateRequest = 3, typeTerminateRequest = "request", commandTerminateRequest = "terminate", argumentsTerminateRequest = Just (TerminateArguments {restartTerminateRequestArguments = Just False})}) not supported. nop.
+2023-01-26 19:30:44.018553033000 [8538(ThreadId 21)] ERROR APP - cabal: runProcess: chdir: does not exist (No such file or directory)
+2023-03-03 19:35:44.361737968000 [3112(ThreadId 21)] ERROR APP - cabal: runProcess: chdir: does not exist (No such file or directory)

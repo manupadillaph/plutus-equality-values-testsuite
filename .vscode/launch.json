@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "ghc",
+            "request": "launch",
+            "name": "haskell-debug-adapter",
+            "internalConsoleOptions": "openOnSessionStart",
+            "workspace": "/home/manuelpadilla/source/tools/plutus-apps",
+            "startup": "/home/manuelpadilla/source/copyRepos/RATS-DAO/rats-dao-devs-staking-plutus-v2/src/Validators/StakePlusV2/OnChain/Core/OnChainHelpers2.hs",
+            "startupFunc": "main",
+            "startupArgs": "",
+            "stopOnEntry": true,
+            "mainArgs": "",
+            "ghciPrompt": "H>>= ",
+            "ghciInitialPrompt": "Prelude>",
+            "ghciCmd": "cabal exec -- ghci-dap  --interactive -i -i${workspaceFolder}",
+            "ghciEnv": {},
+            "logFile": "${workspaceFolder}/.vscode/phoityne.log",
+            "logLevel": "WARNING",
+            "forceInspect": false
+        }
+    ],
+    "old": "/home/manuelpadilla/.cabal/bin/ -- ${workspaceFolder}"
+}
